@@ -2,51 +2,61 @@
   {
     "name": "Rocky",
     "weight": 65,
-    "favoriteFood": "Trash Can Pizza"
+    "favoriteFood": "Trash Can Pizza",
+    "astrologySign": "Taurus"
   },
   {
     "name": "Bandit",
     "weight": 72,
-    "favoriteFood": "Spaghetti with Leftover Sauce"
+    "favoriteFood": "Spaghetti with Leftover Sauce",
+    "astrologySign": "Gemini"
   },
   {
     "name": "Rascal",
     "weight": 80,
-    "favoriteFood": "Stolen Burgers"
+    "favoriteFood": "Stolen Burgers",
+    "astrologySign": "Leo"
   },
   {
     "name": "Mischief",
     "weight": 68,
-    "favoriteFood": "Sushi Snatched from Humans"
+    "favoriteFood": "Sushi Snatched from Humans",
+    "astrologySign": "Libra"
   },
   {
     "name": "Luna",
     "weight": 55,
-    "favoriteFood": "Garden Salad Raid"
+    "favoriteFood": "Garden Salad Raid",
+    "astrologySign": "Cancer"
   },
   {
     "name": "Sly",
     "weight": 78,
-    "favoriteFood": "Backyard Steak"
+    "favoriteFood": "Backyard Steak",
+    "astrologySign": "Scorpio"
   },
   {
     "name": "Ringo",
     "weight": 60,
-    "favoriteFood": "Trash Can Ice Cream"
+    "favoriteFood": "Trash Can Ice Cream",
+    "astrologySign": "Pisces"
   },
   {
     "name": "Shadow",
     "weight": 90,
-    "favoriteFood": "Alley Pasta"
+    "favoriteFood": "Alley Pasta",
+    "astrologySign": "Capricorn"
   },
   {
     "name": "Maple",
     "weight": 63,
-    "favoriteFood": "Chocolate Dumpster Delight"
+    "favoriteFood": "Chocolate Dumpster Delight",
+    "astrologySign": "Virgo"
   },
   {
     "name": "Bandito",
     "weight": 75,
-    "favoriteFood": "Taco Stand Tacos"
+    "favoriteFood": "Taco Stand Tacos",
+    "astrologySign": "Aries"
   }
 ]
