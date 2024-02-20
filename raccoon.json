@@ -58,5 +58,113 @@
     "weight": 75,
     "favoriteFood": "Taco Stand Tacos",
     "astrologySign": "Aries"
+  },
+  {
+    "name": "Whiskers",
+    "weight": 70,
+    "favoriteFood": "Raccoon Ramen",
+    "astrologySign": "Aquarius"
+  },
+  {
+    "name": "Cocoa",
+    "weight": 58,
+    "favoriteFood": "Marshmallow Mischief",
+    "astrologySign": "Sagittarius"
+  },
+  {
+    "name": "Mango",
+    "weight": 85,
+    "favoriteFood": "Mango Madness",
+    "astrologySign": "Leo"
+  },
+  {
+    "name": "Oreo",
+    "weight": 64,
+    "favoriteFood": "Cookie Jar Chaos",
+    "astrologySign": "Gemini"
+  },
+  {
+    "name": "Hazel",
+    "weight": 75,
+    "favoriteFood": "Nutty Nibbles",
+    "astrologySign": "Virgo"
+  },
+  {
+    "name": "Sparkle",
+    "weight": 62,
+    "favoriteFood": "Glittery Gumbo",
+    "astrologySign": "Libra"
+  },
+  {
+    "name": "Pickle",
+    "weight": 82,
+    "favoriteFood": "Pickle Paradise",
+    "astrologySign": "Cancer"
+  },
+  {
+    "name": "Rusty",
+    "weight": 68,
+    "favoriteFood": "Rustic Risotto",
+    "astrologySign": "Taurus"
+  },
+  {
+    "name": "Minty",
+    "weight": 55,
+    "favoriteFood": "Peppermint Pilfering",
+    "astrologySign": "Scorpio"
+  },
+  {
+    "name": "Whisper",
+    "weight": 78,
+    "favoriteFood": "Silent Sushi",
+    "astrologySign": "Capricorn"
+  },
+  {
+    "name": "Midnight",
+    "weight": 88,
+    "favoriteFood": "Moonlit Macaroni",
+    "astrologySign": "Pisces"
+  },
+  {
+    "name": "Tango",
+    "weight": 66,
+    "favoriteFood": "Tango Tofu",
+    "astrologySign": "Aries"
+  },
+  {
+    "name": "Ginger",
+    "weight": 72,
+    "favoriteFood": "Gingerbread Galore",
+    "astrologySign": "Sagittarius"
+  },
+  {
+    "name": "Rustle",
+    "weight": 76,
+    "favoriteFood": "Rustling Ravioli",
+    "astrologySign": "Aquarius"
+  },
+  {
+    "name": "Pebbles",
+    "weight": 63,
+    "favoriteFood": "Pebble Pudding",
+    "astrologySign": "Gemini"
+  },
+  {
+    "name": "Shadow",
+    "weight": 79,
+    "favoriteFood": "Shadowy Shawarma",
+    "astrologySign": "Leo"
+  },
+  {
+    "name": "Cinnamon",
+    "weight": 58,
+    "favoriteFood": "Cinnamon Swirl Surprise",
+    "astrologySign": "Libra"
+  },
+  {
+    "name": "Smokey",
+    "weight": 85,
+    "favoriteFood": "Smokey Snacks",
+    "astrologySign": "Cancer"
   }
 ]
